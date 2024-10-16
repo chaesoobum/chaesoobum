@@ -1,4 +1,4 @@
-![깃허브웰컴](https://github.com/user-attachments/assets/fbfde6a1-87f8-4d5a-9faa-96f48af0fa6d)
+![걋허브웰컴](https://github.com/user-attachments/assets/19d4d1a3-0ea9-4294-9f0f-0d987efc44fd)
 ## Hi there 👋
 
 <!--
